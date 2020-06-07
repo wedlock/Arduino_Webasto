@@ -1,6 +1,6 @@
 # Arduino_Webasto
 
-Projekt sterownika do Webasto oparty na adruino ( w tym przyopadku Adruino nano ). Do działania całości niezbędne są dwa termometry ( DS18B20 ) do odczytu temperatury spalin i cieczy w układzie oraz wyświetlacz LCD 2x16 linii oraz 1 przycisk monostabilny. Sterownik ustawiony jest na maksymalną temperaturę 70 stopni .
+Projekt sterownika do Webasto oparty na adruino ( w tym przyopadku Adruino nano ). Do działania całości niezbędne są dwa termometry ( DS18B20 ) do odczytu temperatury spalin i cieczy w układzie oraz wyświetlacz LCD 2x16 linii , 1 przycisk monostabilny, kilka rezystorów, MOSFETY i diody LED  ( wszystkie elementy są wymienione w schemacie ). Sterownik ustawiony jest na maksymalną temperaturę 70 stopni .
 
 Do projektu dołączam pliki EAGLE i PDF niezbędne do wykonania płytki.
 
